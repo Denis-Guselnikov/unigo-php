@@ -3,6 +3,10 @@
 [![Latest Stable Version](http://poser.pugx.org/unisender/unigo-php/v)](https://packagist.org/packages/unisender/unigo-php)
 [![Total Downloads](http://poser.pugx.org/unisender/unigo-php/downloads)](https://packagist.org/packages/unisender/unigo-php)
 
+> ⚠️ This is a **fork** of the official SDK Unisender Go:  
+> Original: https://gitflic.ru/project/unisender/unigo-php   
+> License: MIT
+
 This SDK contains methods for easily interacting with the Unisender Go API: https://godocs.unisender.ru/web-api-ref#web-api
 
 ## Installation
@@ -10,7 +14,7 @@ This SDK contains methods for easily interacting with the Unisender Go API: http
 Use Composer to install the package:
 
 ```bash
-composer require unisender/unigo-php
+composer require denis-guselnikov/unigo-php
 ```
 
 ## Usage

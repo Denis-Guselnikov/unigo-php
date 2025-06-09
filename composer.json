@@ -1,7 +1,6 @@
 {
-  "name": "unisender/unigo-php",
+  "name": "denis-guselnikov/unigo-php",
   "description": "The UniGo SDK package what provide methods to interact with Unisender Go API.",
-  "version": "1.0.1",
   "type": "library",
   "license": "MIT",
   "authors": [
